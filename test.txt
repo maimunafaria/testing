@@ -1,3 +1,2 @@
-for jira  
-example testing
-nice
+for jira 
+commit example 
